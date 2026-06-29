@@ -1,0 +1,28 @@
+Lab Activity 1: Add two numbers 
+
+START
+INPUT num1 
+INPUT num2 
+PROCESS sum = num1 + num2 
+DISPLAY sum
+END
+
+Lab Activity 2: Complete the average of three quiz scores
+
+START
+INPUT Q. grade1 
+INPUT Q. grade2 
+INPUT Q. grade3 
+PROCESS average = (grade1+grade2+grade3)/3 
+DISPLAY average
+END
+
+Lab Activity 3: Determine if a number is even or odd
+
+START
+INPUT number MOD 2 = 0 THEN
+DISPLAY "Even"
+ELSE 
+DISPLAY "Odd"
+END IF 
+END 

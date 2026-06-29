@@ -1,7 +1,26 @@
-Step 1: START.
-Step 2: num1 
-Step 3: num2 
-Step 4: Compute sum = num1 + num2 
+Activity 1: Add two numbers 
+Step 1: Start.
+Step 2: Ask the user for the first number, store as num1.
+Step 3: Ask the uwser for the second number, store as num2.
+Step 4: Conpute num1 + num2 
 Step 5: Display sum.
-Step 6: END.
+Step 6: End.
+
+Activity 2: Complete the average of three quiz scores 
+Step 1: Start. 
+Step 2: Ask the user for the first score, store as grade1. 
+Step 3: Ask the user for the second number, store as grade2. 
+Step 4: Ask for the third number, store as grade3.
+Step 5: Compute average = (grade1+grade2+grade3)/3.
+Step 6: Display average.
+Step 7: End.
+
+Activity 3: Determine if a number is even or odd
+Step 1: Start.
+Step 2: Ask the user for a number.
+Step 3: Check if number MOD 2 equals 0.
+Step 4: If yes, display "Even".
+Step 5: If no, display "Odd".
+Step 6: End.
+
 
