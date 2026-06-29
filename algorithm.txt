@@ -1,0 +1,7 @@
+Step 1: START.
+Step 2: num1 
+Step 3: num2 
+Step 4: Compute sum = num1 + num2 
+Step 5: Display sum.
+Step 6: END.
+
